@@ -1,11 +1,12 @@
 ![Header](https://github.com/cactusFriday/cactusFriday/blob/main/tenor.gif)
 - 👋 Hi, I’m @cactusFriday
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in any backend or low-level programming
+- 🌱 I’m currently learning Networks and SDNs
 
+### Lanuages
+![Python](https://img.shields.io/badge/Python3-090909?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus)
+![C++](https://img.shields.io/badge/AVR-090909?style=for-the-badge&logo=arduino)
 
-<!-- <div class="tenor-gif-embed" data-postid="22068584" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%">
-    <img src="tenor.gif">
-</div>  -->
+### How to reach me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/cactusFriday)
